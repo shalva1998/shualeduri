@@ -1,0 +1,139 @@
+body{
+	font-size: 200%;
+	font-family: 'BPG Ingiri Arial';
+}
+* {
+	box-sizing: border-box;
+}
+#logo{
+	display: inline-block;
+	float: left;
+	width: 200px;
+}
+nav{
+	display: inline-block;
+	line-height: 90px;
+	float: right;
+	width: 80%;
+	height: 90px;
+}
+li{
+	display: inline-block;
+	padding-right: 10px;
+	padding-top: 20px;
+	font-family: 'BPG LE Studio 02 Caps';
+}
+.red{
+	color: #FF005C;
+}
+.logo img{
+	width: 200px;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+header{
+	padding: 30px 0px;
+	max-width: 1300px;
+	margin: auto;
+	font-family: ;
+}
+.clear{
+	clear: both;
+}
+.container-space {
+	display: block;
+	margin: auto;
+	padding: 50px 65px;
+	max-width: 1300px;
+} 
+.banner{
+	width: 100%;
+}
+.container-space-baner{
+	display: block;
+	margin: auto;
+	max-width: 1300px;
+}
+#text{
+	margin-top: 30px;
+	background-color: #DDDDDD;
+}
+#text h2{
+	font-size: 100%;
+	font-family: 'BPG LE Studio 02 Caps';
+}
+#text p{
+	font-size: 50%;
+	font-family: 'BPG Ingiri Arial'
+}
+.seqciebi img{
+	width: 300px;
+}
+.seqciebi h3{
+	margin: 20px 0px;
+	font-size: 50%;
+	font-family: 'BPG LE Studio 02 Caps'
+}
+.seqciebi p{
+	width: 300px;
+	font-size: 40%;
+	font-family: 'BPG Ingiri Arial'
+}
+.seqciebi{
+	display: flex;
+	justify-content: center;
+}
+.seq{
+  padding: 1px 65px;
+}
+.applikaciebi{
+	display: flex;
+	justify-content: center;
+}
+.applikaciebi img{
+	width: 80px;
+}
+.app{
+	padding: 1px 20px;
+}
+#foto{
+	background-color: #819C97;
+}
+.image{
+	display: flex;
+	justify-content: center;
+	margin: 30px;
+}
+.im{
+	padding: 1px 30px;
+}
+.image img{
+	width: 550px;
+}
+.texth2{
+	color: white;
+	font-size: 100%;
+	font-family: 'BPG LE Studio 02 Caps';
+}
+.container-space-footer{
+	display: block;
+    margin: auto;
+    max-width: 1300px;
+    margin-top: 2%;
+}
+.foot img{
+	width: 50px;
+}
+.foot p{
+	font-size: 40%;
+	font-family: 'BPG Ingiri Arial'
+}
+.foot{
+	display: flex;
+	flex-direction: row;
+}
+.number{
+	margin: 20px;
+}
