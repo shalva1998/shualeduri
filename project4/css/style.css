@@ -12,10 +12,9 @@ body{
 }
 nav{
 	display: inline-block;
-	line-height: 90px;
-	float: right;
-	width: 80%;
-	height: 90px;
+	position: absolute;
+    left: 650px;
+    top: 70px;
 }
 li{
 	display: inline-block;
@@ -91,6 +90,7 @@ header{
 .applikaciebi{
 	display: flex;
 	justify-content: center;
+	margin-bottom: 50px;
 }
 .applikaciebi img{
 	width: 80px;
